@@ -4,7 +4,7 @@
 
 - Disponível em: [Open API](https://anuncios.azurewebsites.net/swagger/index.html)
 
-## WEB App Publicado no Gihub Pages
+## Flutter WEB App Publicado no Gihub Pages
 
 - Disponível em: EM ANDAMENTO [Open API](https://anuncios.azurewebsites.net/swagger/index.html)
 
