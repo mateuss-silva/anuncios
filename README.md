@@ -6,7 +6,7 @@
 
 ## Flutter WEB App Publicado no Gihub Pages
 
-- Disponível em: [Website]([https://anuncios.azurewebsites.net/swagger/index.html](https://mateuss-silva.github.io/#/))
+- Disponível em: [Website](https://mateuss-silva.github.io/#/)
 
 ## Descrição de requisitos 
 
