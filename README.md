@@ -1,12 +1,12 @@
 # Anúncios
 
-## API Publicada na Azure
+## API Publicada com docker na Azure
 
 - Disponível em: [Open API](https://anuncios.azurewebsites.net/swagger/index.html)
 
 ## Flutter WEB App Publicado no Gihub Pages
 
-- Disponível em: EM ANDAMENTO [Open API](https://anuncios.azurewebsites.net/swagger/index.html)
+- Disponível em: [Website]([https://anuncios.azurewebsites.net/swagger/index.html](https://mateuss-silva.github.io/#/))
 
 ## Descrição de requisitos 
 
